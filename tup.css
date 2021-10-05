@@ -2,5 +2,8 @@ body{
   color: dimgrey;
 }
 h1{
-  color: gold;
+  color: #ffd700;
+}
+p{
+  color: #000;
 }
